@@ -75,11 +75,9 @@ plt.show()
 
 ![Screenshot 2025-04-24 164800](https://github.com/user-attachments/assets/b24391d6-2082-4f6f-90da-5bd1779d9ec2)
 
-
 ### LAPLACIAN EDGE DETECTOR
 
 ![Screenshot 2025-04-24 164810](https://github.com/user-attachments/assets/b93a961a-472d-4236-a4b1-7c0663ebb3e4)
-
 
 ### CANNY EDGE DETECTOR
 
